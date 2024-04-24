@@ -8,6 +8,6 @@ interface, and implemented accurate currency conversion logic.
 - Javascript 🌟
 ---
 ### To run 
-- Download the `Currency.Converter.zip` folder from [here](https://github.com/JohiChawala/Currency-Converter-intern-Task1)
+- Download the `Currency.Converter.zip` folder from [here] (https://github.com/Lareb1/Currency-Converter-main)
 - Extract the folder
 - Run the `index.html` file in your web browser
